@@ -1,1 +1,1 @@
-# Main file
+# Main file of the project
